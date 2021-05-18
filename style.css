@@ -350,6 +350,7 @@ nav{
 
 .footer-links li{
     padding-bottom: .5rem;
+    list-style-type: none;
     
 }
 
